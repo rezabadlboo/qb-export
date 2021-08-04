@@ -49,3 +49,9 @@ The remaining fields should be self-explanitory, but the bounty solver may ask q
 **Bonus:** (250 DAI) Export of .csv and .tab text files
 
 We will pay using the DAI stable coin.
+
+## Completed Project
+
+A completed project will allow me to press the button and either (a) receive a file on my local computer that I may then sucessfully import into QuickBooks online, (b) -- better -- directly export to QuickBooks online.
+
+'Successful' means that QuickBooks accepts the import without error and that the data imported (a) represents the original data found in the JSON, and (b) is 'understandable' to QuickBooks so that it can create a valid monthly Profit and Loss and Balance Sheet statements.
